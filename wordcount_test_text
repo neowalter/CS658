@@ -1,0 +1,90 @@
+How to build a better business model by blockchain
+Abstract
+
+At present, we are living in a world that the surroundings are changing dramatically every day. Since the blockchain has been invented, it already self-upgraded three versions (Spithoven, 2019). Blockchain has been treated as a technological invention that can change the world, the main features include cryptography and cybersecurity. Many companies already used it to deploy their new business model in many different fields (Zhang, Xue & Liu, 2019). The security and privacy of blockchains which are shown by the current applications proved that this advanced technology can help with building a better model.
+
+Introduction
+
+Not far from now, on May 22, 2010, a programmer bought two large pizzas for 10,000 bitcoins. They were only worth about 30 dollars at the time (Wong, 2018). Now worth 80 million dollars, none of the companies have this rising price in the stock market like this.
+
+Since the blockchain has been invented,11 years have passed. Nowadays almost everybody knows two words, blockchain and bitcoin. Recently, almost every central bank has announced it was in the process of developing their blockchain system and issuing their digital currency. Meanwhile, lots of technology companies are adding their blockchain departments (Paul & Michael, 2015). Not long ago when a company announced that it would use blockchain, the stock price would increase incredibly. Those scenes are familiar to the early stage of Internet mania. In order to avoid the collapse of the industry finance structure, knowing more about the blockchain is necessary. Blockchain technology is not omnipotent, it cannot point stone into gold. However, the advantages that blockchain shows include security and efficiency, which can help build a better business proved by some current models.
+
+Blockchain
+
+In this paper, the explanations are mostly focusing on the structure,technical characteristics and how to make use of them.
+
+In a dynamic perspective blockchain is a database. It is a fixed-length infinitely expandable chain. Every transaction that takes place on the chain is recorded in block, the new block is the end of the old block (Joseph, Bambara & Paul,2018). Simply, try to imagine a scene where there is an office full of accountants, and there is a client depositing a check to his account. In the normal way there only needs to be one accountant to record it, and they only have one ledger which is the same operating principle as the old database (Steven, 2018). That flaw made it very vulnerable and easy to be altered or deleted. When it comes to blockchain, the rules are changed, every accountant needs to write it down simultaneously with security encryption method, so everybody knows how much clients have deposited but they don’t know who the client is unless the client wants them to know. If they want to change the client’s check, it can only happen when more than half of the accountants agree to change which makes it almost impossible to be altered (Huh & Kim, 2019).
+
+However, blockchain is more than that, in this paper, it is referring to the combination of several technologies. The blockchain technology means a set of the data-structure, the algorithm, which easily established a security platform. With all those features blockchain can easily provide unbiased distributed P2P (peer to peer) network (Drescher,2017). This is the technology foundation of the security attribute.
+
+Security
+
+Based on the program foundation of the blockchain technology, when it comparing to the formal Internet, blockchain creates more security. First, talking about the protection of privacy as well as confidentiality, blockchain can do better than the Internet. For example, if a user wants to transfer 100 dollars to another user, users will need to provide lots of personal information and lots of setup procedures to complete this transaction but in blockchain the user only needs to use his own blockchain address which looks like a series of garbled number to another user’s address. Although this transaction will broadcast in the whole blockchain network, nobody will find out which address belongs to the user, and one user can own multiple addresses, which makes transactions almost anonymous. Second, blockchain can provide more integrity. This feature was mostly implemented by using hash algorithm (an algorithm that can automatically provide a crypto ‘signature’ for a text or a data file) (Veness, n.d.). The hash algorithm is the foundation stone of the blockchain. To alter the information which has hash signature, must crack the private key within the information first, this process means thousands of years decrypting. In that case, the cost to tamper the data in the blockchain is higher than on the Internet (Park, 2017). Last but not least, the usability is not like the Internet, if it’s main server break down the whole Internet will be influenced, even shut down because of this, but if the same situation happened in the blockchain, there is no such thing as a main server. Every user is a server so as long as the circumstances are not bad enough to make most of the user offline the blockchain will still working normally.
+
+   Based on the distributed ledger technology feature, blockchain not only provides security but also decreases the cost about companies’ system construction. With this feature, a new business model does not need a huge database anymore, because users’ devices are the company’s database. In that case, the blockchain saves a lot of money from the business database implementation fee, which not only includes the establishment fee but also with the maintenance charges (Aaron, 2018).
+
+Efficiency
+
+The efficiency that blockchain provides is mostly based on the smart contract technology. To imply this feature, a Russian genius teen created a platform built on blockchain called Ethereum. Ethereum is a special platform for smart contracts, the transit data between the terminals can be variables. Which means the data no longer need to be fixed before transmitting. Because of this property this platform can use to program the condition-orient application (Temte & Morgan, 2019). More specifically, within the smart contract the blockchain application can provide real-time updates without any manual control once the contract has been set, which means that it will execute itself automatically. In that case, it performed more efficiently than many interactions with the Internet in the same conditions. In the internet condition, only fixed information can be transmitting, to update the information need to transmit request back and forth several times. In blockchain the transmitting information can be variables, this feature cut off all the useless interactions between terminals instantly. Beyond that, it also can save a huge cost taken by the third parties or human mistakes (Rosic, Andonov & Mihaylov, 2019), besides the transactions between each endpoint.
+
+No system is perfect. Blockchain also has some drawbacks but compared to the Internet in some fields, blockchain shows more advantages. With these two features, once customers experience the services provided by blockchain they will abandon the old system sooner or later (Kaye, 2018).
+
+The previous paragraphs have conferred the advantages of blockchain, also show the reason blockchain is used to build the business model. However, the model does not appear out of nowhere. In the following paragraphs are some examples of the blockchain model.
+
+Current examples
+
+According to a research report release from the International Data Corporation (IDC), The blockchain market was expanded dramatically and is about to reach 12 billion USD before 2022(Wester, Close, D’Alfonso, Little& Xue, 2019). Many visionary companies’ CEO already acted within their companies. Some models they established begin to change the rules of current market.
+
+Eastman Kodak is an old camera company. Influenced by the raising of the smartphone and the high quality of the camera planted on the phones, the company almost went bankrupt. By using blockchain technology they created a new platform called KODAKOne. This management platform is focusing on the copyright ownership. Users can put their portfolio on the platform. With the character of blockchain, the pictures are protected automatically and every view and click gets paid (Ratko, 2019).
+
+Deloitte has been involved with blockchain for many years. Their blockchain platform named Rubix in 2014, was called it a “one-stop blockchain software platform”. The platform provides three main functions, to improve Deloitte and its client’s performance in the advanced technology field, to investigate how to help the current service of business model by using blockchain, and probe how to use blockchain solve future problems (Nicola, 2015). With that it can help the company and its customers make better strategies.
+
+Securitize is a startup company that enables the issuance and management digital securities, besides unlocking liquidity in the huge private securities market with compliant and easily tradable assets.   Moreover, its platform can provide security tokens on public blockchains and make the compliance accurate at the token level (Vanessa, 2018). To make the assets tokenize is become a trend for wealth people to preserve their value.
+
+As many pioneers of many industries already taken actions to implant the blockchain technology. There are many technology application scenarios were proved feasible. Based on that, imitate their successful examples can help build the better profitable business model. Moreover, this provide a chance to stand on the shoulders of giants. Different from explore the new territory, this is a path to expand more.
+
+Conclusion
+
+In the end although this paper did not come up with the business model by using blockchain. But it showed the path and the method by presented technology advantages such as privacy and security, along with current useful example models. Nowadays technologies have been changing with each passing day. Every technological change reconstitutes our life dramatically, for the sake of not been eliminated by the technology wave. We need to understand the blockchain further, not just limited in security and efficiency. There will be more advantages discovered in the future. Due to the limited space, this paper only showed a small part of what blockchain is capable of. To discover more, stay foolish stay hungry.
+
+References
+
+Aaron,           L. (2018). HOW MUCH DOES A MARKETING DATABASE COST? HERE ARE THE DETAILS. Retrieved November 22, 2019, from http://www.hartehanks.com/insights/our-insights/2018/04/27/How-Much-Does-a-Marketing-Database-Cost-Here-are-the-Details
+
+Allam, Z. (2018). On Smart Contracts and Organisational Performance: A Review of Smart Contracts through the Blockchain Technology, Review of Economic and Business Studies, 11(2), 137-156. doi: https://doi.org/10.1515/rebs-2018-0079
+
+Bambara, J. J., & Allen, P. R. (2018). Blockchain: a practical guide to developing business, law, and technology solutions. New York, McGraw-Hill Education (n. p.).
+
+Chris, V.(n.d.). SHA-256 Cryptographic Hash Algorithm. Retrieved November 10, 2019, from https://www.movable-type.co.uk/scripts/ sha256.html
+
+Drescher, D. (2017).Blockchain basics: a non-technical introduction in 25 steps. New York, Apress.
+
+Huh, J.H.& Kim,S.K. (2019).The Blockchain Consensus Algorithm for Viable Management of New and Renewable Energies. Sustainability, 11(11). MDPI AG. Doi:10.3390/su11113184
+
+James, W., Alison,C., Steven,D., Rivka, G.L. & Yu,X,(2019). IDC FutureScape: Worldwide Blockchain 2020 Predictions. Retrieved November 4, 2019, from https://www.idc.com/research/viewtoc.jsp? containerId=US44538119
+
+Jamil, F., Hang, L., Kim, K., & Kim, D. (2019). A Novel Medical Blockchain Model for Drug Supply Chain Integrity Management in a Smart Hospital. Electronics, 8(5), 505. doi: 10.3390/electronics8050505
+
+Kaye, C. (2018). How Blockchain Could Transform The Customer Experience. Retrieved November 25, 2019 from http://customerthink.com/how-blockchain-could-transform-the-customer-experience/.
+
+Medicalchain (2018) Medicalchain Whitepaper 2.1. Retrieved November 8, 2019 from https://medicalchain.com/Medicalchain -Whitepaper-EN.pdf.
+
+Nicola, M. (2015). Deloitte Launches Rubix, A One Stop Blockchain Software Platform [Brave Newcoin]. Retrieved November 2,2019, from https://bravenewcoin.com/insights/deloitte-launches- rubix-a-one-stop-blockchain-software-platform
+
+Park, J., & Park, J. (2017). Blockchain Security in Cloud Computing: Use Cases, Challenges, and Solutions. Symmetry, 9(8), 164. doi: 10.3390/ sym9080164
+
+Paul, V &Michael, J. C (2015). The age of cryptocurrency: how Bitcoin and digital money are challenging the global economic order. New York, St. Martin’s Press, Retrieved November 12, 2019, from http://innopac.pace.edu.rlib.pace.edu/record=b2440126
+
+Ratko,S.(2019).Five Ways Blockchain Can Transform Traditional Business and Impact the Market in the Future. Retrieved November 11, 2019, from https://medium.com/mvp-workshop/ five-ways-blockchain- can-transform-traditional-business-and-impact-the-market-in-the-future-6310a9554214
+
+Rosic, A., Andonov, S., Mihaylov, M., Dictor, V., & Georgenguyen, G. N. (2019). Smart Contracts: The Blockchain Technology That Will Replace Lawyers. Retrieved November 5, 2019, from https://blockgeeks.com/ guides /smart-contracts/.
+
+Spithoven, A (2019). ‘Theory and Reality of Cryptocurrency Governance’. Journal of Economic Issues (Taylor & Francis Ltd). 53(2), p385-393. https://doi.org/10.1080/00213624.2019.1594518
+
+Steven, B (2018). Bank reconciliation. Retrieved November 1,2019, from https://www.accountingtools.com/articles/2017/5/17/ bank-reconciliation
+
+Temte, Morgan N..Blockchain Challenges Traditional Contract Law: Just How Smart Are Smart Contracts, Wyoming Law Review, Vol. 19, Issue 1 (2019), pp. 87-118
+
+Wong, J. I. (2018) Eight years ago today, someone bought two pizzas with bitcoins now worth $82 million. Retrieved November 1, 2019 from https://qz.com/1285209/bitcoin-pizza-day-2018-eight-years- ago-someone-bought-two-pizzas-with-bitcoins-now-worth-82-million
+
+Zhang, R., Xue, R.& Liu, L. (2019). Security and Privacy on Blockchain. ACM Computing Surveys, 52(3), pg1.
